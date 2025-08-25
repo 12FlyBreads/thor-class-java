@@ -1,2 +1,3 @@
-# thor-class-java
-Thor Class.
+# Thor Verso
+-------------------
+## First Java Project
